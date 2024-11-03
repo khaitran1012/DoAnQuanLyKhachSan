@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C834703-B7E2-4C77-9AC9-D7793A004FC6}|\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n.csproj|C:\\Users\\PC\\source\\repos\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C834703-B7E2-4C77-9AC9-D7793A004FC6}|\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n.csproj|c:\\users\\pc\\source\\repos\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C834703-B7E2-4C77-9AC9-D7793A004FC6}|\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n.csproj|solutionrelative:\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,7 +31,7 @@
       "RelativeMoniker": "D:0:0:{6C834703-B7E2-4C77-9AC9-D7793A004FC6}|\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n.csproj|solutionrelative:\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\user control\\uc_themphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C834703-B7E2-4C77-9AC9-D7793A004FC6}|\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n.csproj|c:\\users\\pc\\source\\repos\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C834703-B7E2-4C77-9AC9-D7793A004FC6}|\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n.csproj|C:\\Users\\PC\\source\\repos\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C834703-B7E2-4C77-9AC9-D7793A004FC6}|\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n.csproj|solutionrelative:\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -79,8 +79,7 @@
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T19:40:30.908Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -112,8 +111,7 @@
               "RelativeToolTip": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Thanhtoan.cs",
               "ViewState": "AgIAAJwAAAAAAAAAAAAYwM8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T05:33:16.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T05:33:16.153Z"
             },
             {
               "$type": "Document",
@@ -125,8 +123,7 @@
               "RelativeToolTip": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Nhan vien.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAwIkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T11:31:39.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T11:31:39.443Z"
             },
             {
               "$type": "Document",
@@ -138,8 +135,7 @@
               "RelativeToolTip": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Thongtinkhachhang.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAkwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T10:30:52.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T10:30:52.557Z"
             },
             {
               "$type": "Document",
@@ -151,8 +147,7 @@
               "RelativeToolTip": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Dangkhachhang.cs",
               "ViewState": "AgIAAIkAAAAAAAAAAAAYwKUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T00:20:15.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T00:20:15.63Z"
             },
             {
               "$type": "Document",
@@ -164,8 +159,7 @@
               "RelativeToolTip": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Themphong.cs",
               "ViewState": "AgIAALwAAAAAAAAAAAAkwNYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T21:56:53.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T21:56:53.4Z"
             },
             {
               "$type": "Document",
@@ -175,7 +169,7 @@
               "RelativeDocumentMoniker": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\Dashboard.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\Dashboard.cs",
               "RelativeToolTip": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\Dashboard.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA4wDsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T03:51:47.764Z",
               "EditorCaption": ""
@@ -189,8 +183,7 @@
               "ToolTip": "C:\\Users\\PC\\source\\repos\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Nhan vien.cs [Design]",
               "RelativeToolTip": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Nhan vien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T11:06:56.801Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-02T11:06:56.801Z"
             },
             {
               "$type": "Document",
@@ -201,8 +194,7 @@
               "ToolTip": "C:\\Users\\PC\\source\\repos\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Thongtinkhachhang.cs [Design]",
               "RelativeToolTip": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Thongtinkhachhang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T10:30:36.569Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-02T10:30:36.569Z"
             },
             {
               "$type": "Document",
@@ -213,8 +205,7 @@
               "ToolTip": "C:\\Users\\PC\\source\\repos\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Thanhtoan.cs [Design]",
               "RelativeToolTip": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Thanhtoan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T05:33:13.742Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-02T05:33:13.742Z"
             },
             {
               "$type": "Document",
@@ -225,8 +216,7 @@
               "ToolTip": "C:\\Users\\PC\\source\\repos\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Dangkhachhang.cs [Design]",
               "RelativeToolTip": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Dangkhachhang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T21:57:02.147Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-01T21:57:02.147Z"
             },
             {
               "$type": "Document",
@@ -237,8 +227,7 @@
               "ToolTip": "C:\\Users\\PC\\source\\repos\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Themphong.cs [Design]",
               "RelativeToolTip": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\User control\\Uc_Themphong.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T21:56:50.956Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-01T21:56:50.956Z"
             },
             {
               "$type": "Document",
@@ -249,8 +238,7 @@
               "ToolTip": "C:\\Users\\PC\\source\\repos\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\Form1.cs [Design]",
               "RelativeToolTip": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T19:40:29.242Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-01T19:40:29.242Z"
             },
             {
               "$type": "Document",
@@ -261,8 +249,7 @@
               "ToolTip": "C:\\Users\\PC\\source\\repos\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\Dashboard.cs [Design]",
               "RelativeToolTip": "\u0110\u1ED3 \u00E1n qu\u1EA3n l\u00ED kh\u00E1ch s\u1EA1n\\Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T19:15:40.423Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-24T19:15:40.423Z"
             }
           ]
         }
