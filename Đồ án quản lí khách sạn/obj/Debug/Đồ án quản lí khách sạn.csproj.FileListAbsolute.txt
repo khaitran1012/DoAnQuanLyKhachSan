@@ -1,0 +1,36 @@
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\bin\Debug\Đồ án quản lí khách sạn.exe.config
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\bin\Debug\Đồ án quản lí khách sạn.exe
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\bin\Debug\Đồ án quản lí khách sạn.pdb
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\bin\Debug\Guna.UI2.dll
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ án quản lí khách sạn.csproj.AssemblyReference.cache
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ_án_quản_lí_khách_sạn.Form1.resources
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ_án_quản_lí_khách_sạn.Properties.Resources.resources
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ án quản lí khách sạn.csproj.GenerateResource.cache
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ án quản lí khách sạn.csproj.CoreCompileInputs.cache
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\__ _n qu.F9DBDE9D.Up2Date
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ án quản lí khách sạn.exe
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ án quản lí khách sạn.pdb
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ_án_quản_lí_khách_sạn.Dashboard.resources
+D:\baitap\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ_án_quản_lí_khách_sạn.User_control.Uc_Themphong.resources
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\bin\Debug\Đồ án quản lí khách sạn.exe.config
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\bin\Debug\Đồ án quản lí khách sạn.exe
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\bin\Debug\Đồ án quản lí khách sạn.pdb
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\bin\Debug\Guna.UI2.dll
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ án quản lí khách sạn.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ_án_quản_lí_khách_sạn.Dashboard.resources
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ_án_quản_lí_khách_sạn.Form1.resources
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ_án_quản_lí_khách_sạn.Properties.Resources.resources
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ_án_quản_lí_khách_sạn.User_control.Uc_Themphong.resources
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ án quản lí khách sạn.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ án quản lí khách sạn.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\__ _n qu.F9DBDE9D.Up2Date
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ án quản lí khách sạn.exe
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ án quản lí khách sạn.pdb
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\bin\Debug\EntityFramework.dll
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\bin\Debug\EntityFramework.xml
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ_án_quản_lí_khách_sạn.User_control.Uc_Dangkhachhang.resources
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ_án_quản_lí_khách_sạn.User_control.Uc_Thanhtoan.resources
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ_án_quản_lí_khách_sạn.User_control.Uc_Thongtinkhachhang.resources
+C:\Users\PC\source\repos\Đồ án quản lí khách sạn\Đồ án quản lí khách sạn\obj\Debug\Đồ_án_quản_lí_khách_sạn.User_control.Uc_Nhan_vien.resources
